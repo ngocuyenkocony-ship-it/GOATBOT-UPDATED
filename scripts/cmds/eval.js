@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "eval",
 		version: "1.6",
-		author: "NTKhang",
+		author: "SiFu",
 		countDown: 5,
 		role: 3,
 		description: {
