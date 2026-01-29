@@ -77,9 +77,9 @@ src="https://i.imgur.com/QxNBXx0.jpeg" alt="banner">
 ____
 ## CREDITS 🪐🍭
 
-🎀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:-  𝑴𝑫 𝑺𝑰𝑭𝑨𝑻 ☠️
-🌞 Owner of fca:- neokex
-❄️ 𝗢𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿:-  ntkhang
+- 🎀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:- 𝑴𝑫 𝑺𝑰𝑭𝑨𝑻 🍓
+- 🌞 Owner of fca:- neokex
+- ❄️ 𝗢𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗖𝗿𝗲𝗮𝘁𝗼𝗿:- ntkhang
 
 ____
 
