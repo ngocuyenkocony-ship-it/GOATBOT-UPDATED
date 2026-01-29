@@ -92,7 +92,8 @@ ____
 - ✨ Fork and Star this repository
 - [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-Itz%20SiFu-red?style=for-the-badge&logo=youtube)](https://youtube.com/@itzsifuff?si=pRm-ekCt_Huw_WfY)
 - [![Follow Facebook Page](https://img.shields.io/badge/Follow-Facebook%20Page-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100078859776449)
-- [![Join Facebook Group](https://img.shields.io/badge/Facebook%20Group%20Chat-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/1969428260490804/)
+- [![Join Facebook Group](https://img.shields.io/badge/Facebook%20Group-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/931837556457123/)
+- [![Join Massanger Group](https://img.shields.io/badge/Massanger%20Chat%20Group-blue?style=for-the-badge&logo=massanger)](https://m.me/j/AbYtX_MzRz5ykdhT/)
 - [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-Ewr%20SiFu-blue?style=for-the-badge&logo=telegram)](https://t.me/Ewr-sifuh4x)
 - [![Follow @Ewr-SiFu](https://img.shields.io/github/followers/Ewr-SiFu?label=Follow%20%40Ewr-SiFu&style=social)](https://github.com/Ewr-SiFu)
 
