@@ -76,6 +76,10 @@ src="https://i.imgur.com/QxNBXx0.jpeg" alt="banner">
 </div>
 
 ____
+
+<br>
+<div align="center">
+ 
 ## CREDITS 🪐🍭
 
 - 🎀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:- 𝑴𝑫 𝑺𝑰𝑭𝑨𝑻 🍓
@@ -99,39 +103,12 @@ ____
 - [![Follow @Ewr-SiFu](https://img.shields.io/github/followers/Ewr-SiFu?label=Follow%20%40Ewr-SiFu&style=social)](https://github.com/Ewr-SiFu)
 
 ---
-## workflow 
 
-```
-name: Node.js CI
+<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="MR-SIFU" />
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-jobs:
-  build:
-
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
-    steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: npm install
-    - run: npm start
-
-```
-
+---
+<br>
+<div align="center">
 <i>Don't forget to give a ⭐ if you like this bot!</i>
 </div>
 
